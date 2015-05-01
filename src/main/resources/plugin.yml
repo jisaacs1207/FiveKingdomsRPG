@@ -1,0 +1,12 @@
+name: FiveKingdomsRPG
+main: io.github.jisaacs1207.FiveKingdomsRPG.FiveKingdomsRPG
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+description: >
+             The Five Kingdoms RPG core.
+
+commands:
+   infect:
+      aliases: [infections, infection, inf]
+      description: Infection information.
